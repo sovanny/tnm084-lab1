@@ -2,5 +2,5 @@
 
 procedural sunset
 
-![screenshot](https://sovanny.github.com/tnm084-lab1/screenshot1.png "Screenshot")
+![screenshot](https://raw.githubusercontent.com/sovanny/tnm084-lab1/master/screenshot1.png "Screenshot")
 
